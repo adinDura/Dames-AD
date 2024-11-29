@@ -10,7 +10,7 @@ cases_noires = (180, 180, 180)
 window_color = (89, 152, 255)
 path_to_images = "pictures/"
 
-# Taille du plateau et de la fenêtres
+# Taille du plateau et de la fenêtre
 nb_lignes = 10
 nb_colonnes = 10
 window_width = case_size * nb_colonnes
